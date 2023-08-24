@@ -1,4 +1,4 @@
-module github.com/rverton/webanalyze
+module github.com/NikosRig/webanalyze
 
 go 1.15
 
